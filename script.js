@@ -1,31 +1,29 @@
 const questions = [
-  "Will they ever text me back?",
-  "Does she still think about me?",
-  "Is it really over?",
-  "Was I the problem?",
-  "Did she move on already?",
-  "Is she stalking my profile?",
-  "Was she lying the whole time?",
-  "Will I ever mean anything to her?",
-  "Will I ever be enough?",
-  "Did she fake everything?",
-  "Was it love or just boredom?",
-  "Am I being too dramatic?"
+  "may iba na ba sya?",
+  "may karapatan bako mag selos?",
+  "wala na ba talagang pag asang maging kami?",
+  "san bako nag kulang?",
+  "nag move on naba sya?",
+  "is she stalking me?",
+  "was she lying the whole time?",
+  "bakit nya bako pinagpalit?",
+  "will I ever be enough?",
+  "pinaglaruan nya lang ba ako?",
+
 ];
 
 const answers = [
-  "LOL no chance.",
-  "Maybe, or maybe not.",
-  "It's complicated... probably not.",
-  "Nah, you’re good.",
-  "She moved on faster than you blink.",
-  "She’s definitely lurking.",
-  "She was, and then some.",
-  "Only if you change.",
-  "You’ll always wonder.",
-  "She made it all up.",
-  "It was boredom. Sorry.",
-  "Yes, but that’s okay."
+  "omsim pare",
+  "hahahaha mag kaibigan lang kayo tas mag seselos ka?",
+  "itulog mo nalang, malay mo maging kayo sa panaginip mo",
+  "ayan, bobo ka kasi eh",
+  "di, gusto ka parin nyan....asa ka",
+  "nah, she's stalking somebody else though :D",
+  "di ba obvious?",
+  "di ka nya deserve.",
+  "yes and you deserve better than her/him",
+  "omsim pre, wawa ka naman",
+
 ];
 
 const container = document.getElementById('container');
