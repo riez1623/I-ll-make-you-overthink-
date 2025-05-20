@@ -16,7 +16,7 @@ const answers = [
   "omsim pare",
   "hahahaha mag kaibigan lang kayo tas mag seselos ka?",
   "itulog mo nalang, malay mo maging kayo sa panaginip mo",
-  "ayan, bobo ka kasi eh",
+  "sya yung nag kulang eh, kulang sa pansin, di na na kuntento sayo",
   "di, gusto ka parin nyan....asa ka",
   "nah, she's stalking somebody else though :D",
   "di ba obvious?",
